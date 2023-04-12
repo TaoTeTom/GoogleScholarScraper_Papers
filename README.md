@@ -1,3 +1,3 @@
 # GoogleScholarScraper
 
-Scrapes google scholar. Basic program, often get's blocked. Be sure to vary the sleep.
+Scrapes google scholar for paper citations, useful for MetaAnalysis. Basic program, often get's blocked. Be sure to vary the sleep.
